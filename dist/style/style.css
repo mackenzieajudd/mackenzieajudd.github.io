@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.champion{
+    background-color: #2B83A1;
+}
+
+.champion-head {
+    padding-top: 120px;
+    height: 400px;
+    line-height: 0.8em;
+    font-size: 68px;
+    width: 350px;
+    color: white;
+}
+
+.champion-image{
+    height: 250px;
+    border-radius: 75px;
+}
+
+.champion-image-col{
+    padding-top: 75px;
+    height: 400px;
+}
+
+.separator{
+    height: 40px;
+    border-bottom: solid black 2px;
+}
+
+.coming-soon{
+    height: 50%;
+    padding-top: 5%;
+    font-size: 100px;
+    font-weight: bold;
+}
